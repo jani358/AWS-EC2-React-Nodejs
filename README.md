@@ -1,7 +1,9 @@
 # nodejs-hosting-aws
 <br>
+<p>
 Deploy React & Nodejs App to AWS EC2 instances
-<br>
+</p>
+  <br>
 
 #NODE JS FOREVER START
 1. Go to cd /var/www/html/ and clone node js project
