@@ -1,5 +1,6 @@
 # nodejs-hosting-aws
 <br>
+Deploy React & Nodejs App to AWS EC2 instances
 <br>
 
 #NODE JS FOREVER START
