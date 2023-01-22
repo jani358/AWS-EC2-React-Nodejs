@@ -2,6 +2,6 @@
 <br>
 
 
-<p align="center">
+<p align="left">
     <img width="200" src="https://myoctocat.com/assets/images/base-octocat.svg">
 </p>
