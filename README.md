@@ -1,5 +1,7 @@
 # Deploy React & Nodejs App to AWS EC2 instances
 <br>
 
-> react
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+<p align="center">
+    <img width="200" src="https://myoctocat.com/assets/images/base-octocat.svg">
+</p>
