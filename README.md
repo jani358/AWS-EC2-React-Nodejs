@@ -6,9 +6,9 @@
 <br>
 
 ###STEP 1
-<ul>
+<li>
 SETUP EC2 INSTANCES ENVIRONMENT
-<ul>    
+<li>    
 
 ##NODE JS FOREVER START
 
