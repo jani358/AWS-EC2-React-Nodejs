@@ -5,6 +5,7 @@
 <p align="left">
     <img width="200" src="https://myoctocat.com/assets/images/base-octocat.svg">
 
- align="right">
+<p align="right">
 // Your content
+</p>
 </p>
