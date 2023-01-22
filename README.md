@@ -5,11 +5,16 @@
 </p>
 <br>
 
+###STEP 1
+<ul>
+SETUP EC2 INSTANCES ENVIRONMENT
+<ul>    
+
 ##NODE JS FOREVER START
 
 1. Go to cd /var/www/html/ and clone node js project
 
-2. git clone https://github.com/Yesh-adithya31/nodejsHosting.git
+2. git clone https://github.com/jani358/AWS-EC2-React-Nodejs.git
 
 3. cd nodejsHosting
 
