@@ -8,9 +8,13 @@
 ###STEP 1
 <li>
 SETUP EC2 INSTANCES ENVIRONMENT
-<li>    
-
-##NODE JS FOREVER START
+<br>
+##STEP 2 
+<li>
+INSTALL REACT AND RUN FOREVER   
+##STEP 3
+<li>
+NODE JS FOREVER START
 
 1. Go to cd /var/www/html/ and clone node js project
 
